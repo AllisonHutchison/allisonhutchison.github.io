@@ -1,0 +1,27 @@
+/*!
+ * Add all custom styles to this file. Do not modify the other CSS files.
+ */
+ <style type="text/css">
+        html { 
+  background: url(background.jpg) no-repeat center center fixed; 
+  background-size: cover;
+}
+            body {
+                margin: 0 auto;
+                color: black;
+                font-family: Lora, Georgia, serif;
+            }
+        p {
+            font-family: Lora, Georgia, serif;
+        }
+                        h1 {
+                            font-family: Orbitron, Georgia, serif;
+                            text-align: center;
+                        }
+                        #nav {
+                            width: 100%;
+                        }
+                        .navbar-inverse {
+                        color: white
+                    }
+        </style>
