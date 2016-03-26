@@ -1,8 +1,8 @@
 /*!
  * Add all custom styles to this file. Do not modify the other CSS files.
  */
- <style type="text/css">
-        html { 
+ <link href='https://fonts.googleapis.com/css?family=Lora:400,700italic' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Orbitron:400,900' rel='stylesheet' type='text/css'>
   background: url(background.jpg) no-repeat center center fixed; 
   background-size: cover;
 }
@@ -24,4 +24,3 @@
                         .navbar-inverse {
                         color: white
                     }
-        </style>
