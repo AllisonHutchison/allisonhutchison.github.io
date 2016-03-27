@@ -6,6 +6,12 @@
   background: url(background.jpg) no-repeat center center fixed; 
   background-size: cover;
 }
+img {
+ align: center;
+}
+.education section {
+ text-align: left;
+}
             body {
                 margin: 0 auto;
                 color: black;
