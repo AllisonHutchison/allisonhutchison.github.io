@@ -3,14 +3,11 @@
  */
  <link href='https://fonts.googleapis.com/css?family=Lora:400,700italic' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Orbitron:400,900' rel='stylesheet' type='text/css'>
-  background: url(background.jpg) no-repeat center center fixed; 
+  background: (background.jpg) no-repeat center center fixed; 
   background-size: cover;
 }
 img {
  align: center;
-}
-.education section {
- text-align: left;
 }
             body {
                 margin: 0 auto;
@@ -22,7 +19,6 @@ img {
         }
                         h1 {
                             font-family: Orbitron, Georgia, serif;
-                            text-align: center;
                         }
                         h2 {
                          font-family: Lora;
