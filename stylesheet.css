@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Allison Hutchison, Writing Center Ninja</title>
+<link href='https://fonts.googleapis.com/css?family=Lora:400,700italic' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Orbitron:400,900' rel='stylesheet' type='text/css'>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <div class="page-header">
+  <div class="container text-center">
+<div class="row">
+    <div class="col-sm-4">
+<img src="http://allisonhutchison.github.io/star.png" />
+</div>
+<div class="col-sm-4">
+        <h1>Allison Hutchison</h1>
+</div>
+<div class="col-sm-4">
+<img src="http://allisonhutchison.github.io/star.png" />
+</div>
+  </div>
+</div>
+<style>
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+h1 {
+        font-family: 'Orbitron', serif;
+}
+body {
+font-family: 'Lora', serif;
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a class="active" href="http://http://allisonhutchison.github.io">Ninja, What?</a></li>
+        <li><a href="http://allisonhutchison.github.io/education.html">Education</a></li>
+        <li><a href="http://allisonhutchison.github.io/employment.html">Employment History</a></li>
+        <li><a href="http://allisonhutchison.github.io/teaching.html">Teaching Experience</a></li>
+        <li><a href="http://allisonhutchison.github.io/conference.html">Conference Presentations</a></li>
+<li><a href="http://allisonhutchison.github.io/organization.html">Organizational Affiliations</a>
+        <li><a href="http://allisonhutchison.github.io/fundraiser.html">Rhetoric Club Fundraiser</a></li>
+</ul>
+
+</body>
+</html>
